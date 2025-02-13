@@ -4,7 +4,7 @@
 contact-form
 
 ## 環境構築
-1.git clone リンク
+1.git clone リンク　　
 2.docker-compose up -d --build
 3.docker-compose exec php bash 
 4.php artisan migrate
