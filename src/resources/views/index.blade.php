@@ -14,7 +14,7 @@
   <header class="header">
     <div class="header__inner">
       <a class="header__logo" href="/">
-        Contact 
+        FashionablyLate
       </a>
     </div>
   </header>
@@ -22,7 +22,7 @@
   <main>
     <div class="contact-form__content">
       <div class="contact-form__heading">
-        <h2>お問い合わせ</h2>
+        <h2>Contact</h2>
       </div>
       <form class="form">
         <div class="form__group">
