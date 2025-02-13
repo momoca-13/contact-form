@@ -11,8 +11,10 @@ contact-form
 5.php artisan db:seed
 
 ## 使用技術（実行環境）
-PHP 7.4.9 
-Laravel  8.83.8
+PHP 7.4.9  
+
+Laravel  8.83.8  
+
 mysql 8.0.26 
 
 ## ER図
