@@ -24,6 +24,11 @@ mysql 8.0.26
 ## ER図
 [ER図](index.drawio.png)
 
-## URL
+## URL  
+
+開発環境: http://localhost/  
+phpMyAdmin: http://localhost:8080/
+
+
 
 
