@@ -4,7 +4,7 @@
 contact-form
 
 ## 環境構築
-1.git clone リンク  
+1.git clone https://github.com/momoca-13/contact-form.git
 
 2.docker-compose up -d --build  
 
